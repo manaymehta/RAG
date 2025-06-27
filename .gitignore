@@ -1,0 +1,27 @@
+# Python virtual environment
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# LangChain/Chroma DB
+vector_db/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and junk
+*.log
